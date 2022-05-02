@@ -1,0 +1,38 @@
+export const projects = [
+  {
+    title: "MERN Memories",
+    description: "",
+      image: '/images/1.png',
+      tags: ['Mongo', 'Express', 'React', 'Node'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 0,
+  },
+  {
+    title: "E-Commerce",
+    description:"",
+    image: '/images/2.png',
+    tags: ['React', 'JavaScript'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 1,
+  },
+  {
+    title: "WebRTC App",
+    description: "",
+      image: '/images/3.png',
+      tags: ['React', 'GSAP'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 2,
+  },
+  {
+    title: "Unichat",
+    description: "",
+    image: '/images/4.png',
+    tags: ['Next.js', 'ChatEngine', 'Firebase'],
+    source: 'https://google.com',
+    visit: 'https://google.com',
+    id: 3,
+  },
+];
